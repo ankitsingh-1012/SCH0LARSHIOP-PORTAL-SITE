@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "..\\amanc++"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"INSERTION INLINKEDLIST.C": "cpp",
+			"INSERTIONINLINKEDLIST.C": "cpp",
+			"DELETIONINLINKEDLIST.C": "cpp",
+			"CIRCULARLINKEDLIST.C": "cpp",
+			"PRACTISE1.C": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "amanc++",
+		"liveServer.settings.port": 5501
+	}
+}

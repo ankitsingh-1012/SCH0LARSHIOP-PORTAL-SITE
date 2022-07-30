@@ -1,0 +1,11 @@
+*{
+    margin:0;
+    padding:0;
+}
+.header{
+    height: 200;
+    width: 300;
+    background-image: -webkit-image-set();
+    background-size:auto;
+    position: fixed;
+}
